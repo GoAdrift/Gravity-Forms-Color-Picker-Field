@@ -159,5 +159,5 @@ function gaws_headers_colors( $form ) {
 }
 
 </style><?php
-	
+	return $form;
 }
